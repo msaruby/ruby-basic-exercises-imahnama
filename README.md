@@ -8,7 +8,7 @@
 git clone "link of the repo"
 ```
 
-## Assingment Structure
+## Assignment Structure
 
 * **Excercise**
     - one.rb
